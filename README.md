@@ -6,3 +6,4 @@ Team member:
 - Chen Qiu
 
 [Link to Gitlab repository](https://gitlab.cs.washington.edu/chenq9/cse481a-18au).
+

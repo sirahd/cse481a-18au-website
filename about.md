@@ -2,7 +2,7 @@
 layout: default
 permalink: /about/
 ---
-## Memegen is like Facebook, but built for sharing memorable memes with your friends and loved ones.
+## Memenet is like Facebook, but built for sharing memorable memes with your friends and loved ones.
 
 Team member:
 - Sira Horradarn

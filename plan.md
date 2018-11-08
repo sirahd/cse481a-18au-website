@@ -4,7 +4,7 @@ permalink: /plan/
 ---
 
 {:refdef: style="text-align: center;"}
-![Project architecture](/assets/architecture.png)
+![Project architecture]({{site.url}}/assets/architecture.png)
 {:refdef}
 
 Our software stack consists of REST API, using [Django REST Framework](http://www.django-rest-framework.org/), web frontend using [ReactJS](https://reactjs.org/) and SQL Server Database.
